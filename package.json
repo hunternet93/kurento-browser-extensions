@@ -1,0 +1,22 @@
+{
+  "name": "kurento-browser-extensions",
+  "version": "0.0.2",
+  "description": "Stub package to satify kurento-utils' non-existant optional dependency. I'm happy to delete this if a Kurento dev asks me to.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hunternet93/kurento-browser-extensions"
+  },
+  "keywords": [
+    "kurento-utils",
+    "stub"
+  ],
+  "author": "Isaac Smith <isaac@isrv.pw>",
+  "license": "CC0",
+  "bugs": {
+    "url": "https://github.com/hunternet93/kurento-browser-extensions/issues"
+  }
+}
